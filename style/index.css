@@ -1,0 +1,25 @@
+#navbar{
+    display: flex;
+    margin: auto;
+    padding: 15px;
+    background-color: aqua;
+    gap:15px;
+    justify-content: end;
+}
+#menu{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    gap:15px;
+    margin-top: 30px;
+}
+#box{
+    text-align: center;
+    height: 400px;
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+img{
+    height: 60%;
+    width: 100%;
+}

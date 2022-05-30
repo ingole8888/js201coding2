@@ -1,0 +1,30 @@
+#total-div{
+    height: 50px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    background-color: aqua;
+}
+#bucket{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    gap:15px;
+    margin-top: 30px;
+}
+#box{
+    text-align: center;
+    height: 400px;
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+img{
+    height: 60%;
+    width: 100%;
+}
+button{
+    display: block;
+    margin: auto;
+    color: teal;
+    margin-top: 20px;
+    padding: 5px 20px 5px 20px;
+}

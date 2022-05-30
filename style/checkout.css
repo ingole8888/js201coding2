@@ -1,0 +1,23 @@
+#order-form{
+    margin: auto;
+    height: 400px;
+    width: 400px;
+    margin-top: 80px;
+    padding-top: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+input{
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    width: 70%;
+    height: 40px;
+}
+button{
+display: block;
+margin: auto;
+background-color: aqua;
+color: brown;
+margin-top: 20px;
+padding: 10px 30px 10px 30px;
+}
